@@ -1,0 +1,10 @@
+C:\Users\Ez\source\repos\PR15\PR15\bin\Debug\PR15.exe.config
+C:\Users\Ez\source\repos\PR15\PR15\bin\Debug\PR15.exe
+C:\Users\Ez\source\repos\PR15\PR15\bin\Debug\PR15.pdb
+C:\Users\Ez\source\repos\PR15\PR15\obj\Debug\PR15.csprojAssemblyReference.cache
+C:\Users\Ez\source\repos\PR15\PR15\obj\Debug\PR15.Form1.resources
+C:\Users\Ez\source\repos\PR15\PR15\obj\Debug\PR15.Properties.Resources.resources
+C:\Users\Ez\source\repos\PR15\PR15\obj\Debug\PR15.csproj.GenerateResource.cache
+C:\Users\Ez\source\repos\PR15\PR15\obj\Debug\PR15.csproj.CoreCompileInputs.cache
+C:\Users\Ez\source\repos\PR15\PR15\obj\Debug\PR15.exe
+C:\Users\Ez\source\repos\PR15\PR15\obj\Debug\PR15.pdb
